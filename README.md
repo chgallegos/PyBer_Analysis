@@ -8,20 +8,20 @@ The data was subcategorized by extracting total rides, total drivers, total fare
 
 The analizis began by extracting the data for total rides, total drivers, total fares, average fare per ride and average fare per driver using the groupby() method.
 
-[screenshot]
-[screenshot]
+![Screenshot](https://github.com/chgallegos/PyBer_Analysis/blob/main/resources/total_drivers.png)
+![Screenshot](https://github.com/chgallegos/PyBer_Analysis/blob/main/resources/average_fare_per_driver.png)
 
 This was put together on the following summary dataframe:
 
-[screenshot summary dataframe]
+![Screenshot](https://github.com/chgallegos/PyBer_Analysis/blob/main/resources/summary_df.png)
 
 Once the data was summarized, a portion of the data from January 2019 to April 2019 was sampled in order to create a multiple line chart that shows the differences in how much fare revenue is being brought in by different city type. 
 
-[screenshot plot]
+![screenshot](https://github.com/chgallegos/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 The plot indicates that the urban portion of the business has the highest fare revenue overall, followed by suburban and lastly rural rides. Another interesting pattern shows that there is a consistent spike increase towards the end of February across all city types.
 
-[screenshor plot annotated]
+![screenshot](https://github.com/chgallegos/PyBer_Analysis/blob/main/analysis/fare_summary_annotated.png)
 
 ----
 ## Summary 
